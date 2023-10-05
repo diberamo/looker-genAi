@@ -9,7 +9,7 @@ project_name: "dbrm_genai_looker"
 
 project_name: "looker-genai"
 application: looker-genai {
-  label: "Looker GenAI Extension"
+  label: "Looker dbrm GenAI Extension"
   # for development: url: "https://localhost:8080/bundle.js"
   # production
   file: "bundle.js"
