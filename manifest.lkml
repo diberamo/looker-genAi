@@ -10,9 +10,9 @@ project_name: "dbrm_genai_looker"
 project_name: "dbrm_genai_looker"
 application: dbrm-looker-genai {
   label: "Looker dbrm GenAI Extension2"
-   # for development: url: "https://localhost:8080/bundle.js"
+  url: "https://localhost:8080/bundle.js"
   # production
-   file: "bundle.js"
+  # file: "bundle.js"
   entitlements: {
     use_embeds: yes
     use_form_submit: yes
